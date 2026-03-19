@@ -66,5 +66,6 @@ Real-world testing in progress
 
 Author
 
-Tiger 
-Veterinarian • multidisciplinary immersive artist • systems-focused AI workflows
+**Tiger**  
+Veterinarian • multidisciplinary immersive artist  
+Systems-focused AI workflows
