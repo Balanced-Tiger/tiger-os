@@ -66,7 +66,7 @@ Real-world testing in progress
 
 Author
 
-**Tiger**
+**Tiger (Matthew) Ford**
 
 Veterinarian • multidisciplinary immersive artist  
 Building systems-focused AI workflows
