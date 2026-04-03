@@ -45,6 +45,14 @@ Currently applied across:
 
 ---
 
+Applied Examples
+
+• Veterinary AI enablement: taught veterinary personnel how to use AI more effectively for patient-record summarization and case communication through structured human-AI collaboration methods designed for clarity, relevance, and usability in live clinical contexts.
+
+• Tiger OS portability: ported Tiger OS into another user’s AI context as a modular operating framework with named modules, runtime rules, validation logic, stress tests, and debugging structure, demonstrating early evidence of portability without flattening the receiving user’s identity.
+
+---
+
 Why this exists
 
 Most LLM usage breaks down in real-world environments because:
@@ -69,4 +77,4 @@ Author
 **Tiger (Matthew) Ford**
 
 Veterinarian • multidisciplinary immersive artist  
-Building systems-focused AI workflows
+Building structured human-AI systems for real-world decision-making
