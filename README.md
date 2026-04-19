@@ -1,8 +1,36 @@
-Tiger OS
+# Tiger OS
 
-Structured LLM workflows for real-world decision-making.
+Tiger OS is an authenticity-first, continuity-preserving human–AI operating framework for reducing cognitive friction, protecting authorship, and enabling structured work across complex real-world domains.
 
----
+It is designed for situations where meaning, context, usability, and human judgment matter more than generic output volume.
+
+Tiger OS is not:
+
+- a generic productivity system
+- a prompt pack
+- a memory dump
+- an autonomous agent framework
+
+It is a structured operating model for high-fidelity human–AI collaboration.
+
+## Core idea
+
+Tiger OS treats continuity as an architectural problem rather than a memory problem.
+
+What must persist is not just content, but also:
+
+- meaning
+- provenance
+- scope
+- standing
+- fit
+- approval boundaries
+
+The system is built to reduce a recurring failure pattern in AI-assisted work:
+
+**flattening and drift**
+
+That includes drift in meaning, authorship, authority, scope, and promotion status.
 
 ## What this is
 
@@ -15,66 +43,78 @@ Tiger OS is a systems-oriented approach to using LLMs in real-world contexts whe
 This is not prompt hacking or tone tuning.
 
 It focuses on:
+
 - structure
 - hierarchy
 - usability
 
----
+## High-level architecture
 
-## Core idea
+Tiger OS currently centers on a layered model:
 
-Most discussions around “human-like” AI outputs focus on wording.
+- **Canonical Authority Layer** — durable rules, stable architecture, protected wording
+- **Synthesis / Promotion Layer** — distilled reusable patterns, promotion buffer, anti-bloat layer
+- **Specialist Execution Layer** — bounded working spaces for real task execution
+- **Human Approval Layer** — authorship, judgment, canon authority, protected boundaries
 
-In practice, what matters more is:
+Around that core, several supporting layers are emerging:
 
-- prioritization (what matters vs what doesn’t)
-- variable density (not everything equally detailed)
-- structure designed for action, not completeness
+- **Calibration Layer**
+- **Migration / Continuity Support Layer**
+- **Intake / Absorption Layer**
+- **Interaction Lab / Evidence Layer**
+- **Control Room / Execution-Routing Layer**
 
-Better structure → more natural outputs → less cognitive load
+## What Tiger OS prioritizes
 
----
+- structure reduces activation
+- stability through clarity
+- meaning before expression
+- usability as part of correctness
+- disciplined promotion instead of premature canonization
+- continuity without flattening
+- human-owned judgment with AI-supported workflow
+- evidence over elegance
 
-## Domains
+## What makes it different
 
-Currently applied across:
+Tiger OS is especially focused on:
 
-- clinical workflows (veterinary medicine)
-- creative systems (music, movement, visual expression)
-- operational workflows (scheduling, decision pipelines)
+- continuity without flattening
+- migration as maintenance, not failure
+- promotion through a governed buffer rather than direct canonization
+- preserving authorship at meaning-bearing boundaries
+- distinguishing local lessons from reusable patterns from canon
+- keeping implementation tools subordinate to the architecture they support
 
----
+## Current status
 
-## Applied Examples
+Tiger OS is a living framework.
 
-- **Veterinary AI enablement:** taught veterinary personnel how to use AI more effectively for patient-record summarization and case communication through structured human-AI collaboration methods designed for clarity, relevance, and usability in live clinical contexts.
+Some parts are current high-confidence architecture.
+Some parts are strong emerging architecture.
+Some parts are intentionally deferred until they are better validated.
 
-- **Tiger OS portability:** ported Tiger OS into another user’s AI context as a modular operating framework with named modules, runtime rules, validation logic, stress tests, and debugging structure, demonstrating early evidence of portability without flattening the receiving user’s identity.
+This repo aims to preserve that distinction rather than flattening everything into premature certainty.
 
----
+The framework is being developed through real-world use and iterative testing across clinical, creative, and operational domains.
 
-## Why this exists
+## Documents
 
-Most LLM usage breaks down in real-world environments because:
+- **[Tiger OS Specification v0.1](./TIGER-OS-SPEC-v0.1.md)** — current formal architecture
 
-- outputs are too verbose or too uniform
-- key information is not surfaced clearly
-- responses are not structured for decisions
+Additional modules and implementation materials may be added over time.
 
-This project explores how to fix that.
+## Implementation note
 
----
+Tiger OS is distinct from the tools that may help build or support it.
 
-## Status
+For example, Codex may function as a build accelerator for continuity tooling, migration support, and orchestration aids — but it is not Tiger OS itself.
 
-- Active development
-- Real-world testing in progress
+## Design stance
 
----
+Tiger OS is built around a simple constraint:
 
-## Author
+A system that preserves output but loses meaning, authorship, scope, or authority is not preserving continuity.
 
-**Tiger (Matthew) Ford**
-
-Veterinarian • multidisciplinary immersive artist  
-Building structured human-AI systems for real-world decision-making
+Tiger OS exists to make that loss less likely.
